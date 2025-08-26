@@ -1,0 +1,5 @@
+[2025-08-24 15:34:00] The quick brown fox jumps over the lazy dog.
+[2025-08-24 15:35:12] This is a sample sentence for testing.
+[2025-08-24 15:36:45] Python programming is fun.
+[2025-08-24 15:38:22] Remember to save your work frequently.
+[2025-08-24 15:40:05] Exit the program by typing 'exit'.
