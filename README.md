@@ -1,5 +1,5 @@
 
-# Advanced Sentence Collector
+# Sentence Collection Tool
 
 A command-line Python program to collect, store, search, and analyze sentences entered by the user. Sentences are timestamped and can be saved to a text file for later reference.
 
